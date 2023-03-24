@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "prac2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "{git@github.com:Uchi-ctrl/SIT725-2023-T1-prac2-new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
